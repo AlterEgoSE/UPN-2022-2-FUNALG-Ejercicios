@@ -7,3 +7,5 @@ Curso: Fundamentos de Algoritmos
 Ciclo: 2
 
 Estudiante: Dannyel Serna Espinoza
+
+Semana 7
